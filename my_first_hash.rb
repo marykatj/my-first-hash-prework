@@ -24,12 +24,4 @@ def adding
                  }
 shipping_manifest["muskets" => 2, "gun powder" => 4]
 
-
-
-  # add 4 gun powder to the shipping_manifest hash below
-
-
-
-  # return the shipping_manifest hash below
-
 end
